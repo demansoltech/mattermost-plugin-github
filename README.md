@@ -29,6 +29,8 @@ A GitHub plugin for Mattermost. Supports GitHub SaaS and Enterprise versions.
 
 This guide is intended for Mattermost System Admins setting up the GitHub plugin, Mattermost users who want information about the plugin functionality, and Mattermost users who want to connect their GitHub account to Mattermost. For more information about contributing to this plugin, visit the [Development section](#development).
 
+
+
 ## License
 
 This repository is licensed under the [Apache 2.0 License](https://github.com/mattermost/mattermost-plugin-github/blob/master/LICENSE).
